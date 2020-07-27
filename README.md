@@ -3,4 +3,4 @@ You are provided with daily historical sales data. The task is to forecast the t
 
 
 
-https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+https://www.kaggle.com/c/competitive-data-science-predict-future-sales
